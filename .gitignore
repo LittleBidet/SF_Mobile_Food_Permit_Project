@@ -1,2 +1,12 @@
 # Project exclude paths
 /out/
+/src/FoodPermits.txt
+/src/MobileFoodPermitProject.zip
+/Mobile Food Permit Project.iml
+/Mobile Food Permit Project.zip
+/src/FoodPermits.txt
+/.idea/CamelCaseConfigNew.xml
+/.idea/codestream.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
